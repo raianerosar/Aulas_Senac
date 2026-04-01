@@ -19,3 +19,4 @@ if len(notas) > 0:
         print("Situação: RECUPERAÇÃO")
 else:
     print("Nenhuma nota foi digitada.")
+    
